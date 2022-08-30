@@ -1111,7 +1111,7 @@
   "dependencies": {
     "@octokit/rest": "^18.5.6",
     "@primer/octicons-react": "^16.3.0",
-    "@primer/react": "^35.0.0",
+    "@primer/react": "^35.5.0",
     "child-process-promise": "^2.2.1",
     "classnames": "~2.2.6",
     "d3": "^6.3.1",
