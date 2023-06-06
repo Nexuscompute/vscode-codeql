@@ -1119,7 +1119,7 @@
     "fs-extra": "^10.0.1",
     "glob-promise": "^3.4.0",
     "js-yaml": "^3.14.0",
-    "minimist": "~1.2.6",
+    "minimist": "~1.2.8",
     "nanoid": "^3.2.0",
     "node-fetch": "~2.6.7",
     "path-browserify": "^1.0.1",
